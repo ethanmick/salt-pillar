@@ -1,3 +1,3 @@
 # Default pillar values
-hello: 'production value'
+hello: 'development...'
 

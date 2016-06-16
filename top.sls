@@ -1,3 +1,3 @@
-production:
-  'minion-prod':
+development:
+  'minion1':
     - common
