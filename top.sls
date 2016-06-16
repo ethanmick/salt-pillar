@@ -1,3 +1,3 @@
 production:
   'minion-prod':
-    - common
+    - default
