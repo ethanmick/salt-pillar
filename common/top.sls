@@ -1,3 +1,3 @@
-base:
-  '*':
+production:
+  'minion-prod':
     - default
