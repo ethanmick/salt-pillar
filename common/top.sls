@@ -1,3 +1,0 @@
-production:
-  'minion-prod':
-    - default
