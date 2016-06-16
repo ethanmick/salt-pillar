@@ -1,3 +1,3 @@
 development:
   'minion1':
-    - common
+    - default
